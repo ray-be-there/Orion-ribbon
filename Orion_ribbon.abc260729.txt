@@ -214,7 +214,7 @@ w: ||||
 z8 |]
 w: |
 V:2
-z8 | z8 | z8 |
+[K:G]z8 | z8 | z8 |
 z8 |  z8 |
 z8 | z8 | z8 |
 e4 f/g/a/b/ c'/d'/e'- | e'8- | e'8- |
@@ -299,7 +299,7 @@ A8 | G8 | f8 |
 e4 d2 B2 | e8- | e8- | e8 |
 z8 |]
 V:3
-z8 | z8 | z8 |
+[K:G]z8 | z8 | z8 |
 z8 |  z8 |
 z8 | z8 | z8 |
 E4 F/G/A/B/ c/d/e- | e8- | e8- |
@@ -384,7 +384,7 @@ A8 | G8 | f8 |
 e4 d2 B2 | E8- | E8- | E8 |
 z8 |]
 V:4
-z8 | z8 | z8 |
+[K:G]z8 | z8 | z8 |
 z8 |  z8 |
 z8 | z8 | z8 |
 z8 | z8 | z8 |
@@ -469,7 +469,7 @@ e a2 b- bc'ba | bggf- f z c2 | e g2 b- bagf |
 b2 e'6 | a8- | a8- | a6- a/g/8_g/8f/8_f/8e/8=d/8_d/8c/8_c/8B/8=A/8_A/8 |
 G/8_G/8F/8_F/8E/8=D/8_D/8C/8_C/8B,/8=A,/8_A,/8G,/8_G,/8F,/8_F,/8- F,/ z/ z z4 |]
 V:5
-z8 | z8 | z8 |
+[K:G]z8 | z8 | z8 |
 z8 |  z8 |
 z8 | z8 | z8 |
 z8 | z8 | GBdB dBdg- |
@@ -554,7 +554,7 @@ A,-[A,A-][E-A][Ee-] e-[A,-e] [A,A]2 | A,-[A,A-][F-A][Fd-] d-[A,-d]A,e- |  [E,e]-
 [B,E][B,E][B,E][B,E]- [B,E][B,E] [B,E]2 | [A,E]8- | [A,E]8- | [A,E]8 |
 z8 |]
 V:6
-z8 | z8 | [G,D]6- [G,D][D,G,]- |
+[K:G]z8 | z8 | [G,D]6- [G,D][D,G,]- |
 [D,G,]3 [G,D]- [G,D]4 |  [=F,C]6- [F,C][E,B,]- |
 [E,B,]8 | [CG]8 | [B,D]8 |
 [A,E]6- [A,E][A,E]- | [A,E]8 | [G,D]8- |
@@ -639,7 +639,7 @@ z8 | z8 | z8 |
 z8 | z8 | z8 | z8 |
 z8 |]
 V:7
-z8 | z8 | G,-[G,D]-[G,B,D]-[G,B,DG-] [G,B,G]-[G,B,DG]- [G,-B,-D-G]/[G,B,D]/-[G,B,DG-] |
+[K:G]z8 | z8 | G,-[G,D]-[G,B,D]-[G,B,DG-] [G,B,G]-[G,B,DG]- [G,-B,-D-G]/[G,B,D]/-[G,B,DG-] |
 [G,B,G]- [G,-B,-D-G]2 [G,B,DG-] [G,B,G]-[G,B,DG]- [G,-B,-D-G]/[G,B,D]/-[G,B,DG] |  =F,-[F,C]-[F,A,C]-[F,A,C=F-] [F,A,F]-[F,A,CF]- [F,-A,-C-F]/[F,A,C]/[E,-E] |
 [E,B,]-[E,^G,-B,-][G,B,E-][E,G,E]- [E,-G,B,-E-]>[E,-B,-E] [E,G,B,]=F | [E,G,CG]3 [E,G,CG]- [E,G,CG]2 [E,G,CG]2 | [B,DGB]3 [E,G,B,DG]- [E,G,B,DG]2 [E,G,B,DB]2 |
 [A,CEG]6- [A,CEG][A,CEG]- | [A,CEG]8 | G,B,DG, B,DG,B, |
@@ -724,7 +724,7 @@ EGfB EfGB |  EGBe EeE[Ee] | [E,A][A,e][EB][B,E] [E,A][A,e][EB][B,E] |
 [E,G][G,B][B,e]E [E,e]E[E,e]E | [Ace]8- | [Ace]8- | [Ace]8 |
 z8 |]
 V:8
-z8 | z8 | G,,6- G,,/ z/ D,- |
+[K:G]z8 | z8 | G,,6- G,,/ z/ D,- |
 D,3 G,- G,4 |  =F,6- F,E,- |
 E,8 | A,,3 A,,- A,,2 A,,2 | B,,3 B,,- B,,2 B,,2 |
 C,6- C,E,- | E,8 | B,,8 |
@@ -979,7 +979,7 @@ F2 z2 FF z2 | F2 z F AF z2 | F2 z2 FF z2 |
 F2 z F z F z2 | x8 | x8 | x8 |
 z F z2 z4 |]
 V:11
-z8 | z8 | z8 |
+[K:G]z8 | z8 | z8 |
 z8 |  z8 |
 z8 | z8 | z8 |
 z8 | z8 | z8 |
