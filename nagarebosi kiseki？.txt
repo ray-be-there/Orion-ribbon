@@ -1,0 +1,69 @@
+
+X:1
+T:Title
+%%score { 1 | 2 } 3 4 ( 5 6 )
+L:1/8
+Q:1/4=174
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="ピアノ" snm="Pno."
+V:2 treble 
+V:3 treble nm="矩形波" snm="Synth."
+V:4 treble nm="二胡" snm="Eh."
+V:5 perc nm="ドラムセット" snm="D. Set"
+K:none
+%%MIDI channel 10
+%%MIDI drummap ^a 49
+I:percmap ^a a 49 x
+%%MIDI drummap ^c 37
+I:percmap ^c c 37 x
+%%MIDI drummap ^e 46
+I:percmap ^e e 46 x
+%%MIDI drummap c 40
+I:percmap c c 40 normal
+V:6 perc 
+K:none
+%%MIDI channel 10
+%%MIDI drummap F 36
+I:percmap F F 36 normal
+%%MIDI drummap ^D 44
+I:percmap ^D D 44 x
+V:1
+z8 | z8 | c6- ce- | e3 c- c4 | B6- Bc- |$ c8 | f8 | d8 | d6- dc- |$ c8 | c6- cA- | A3 c- c4 | 
+G6- GA- |$ A8 | f8 | g3 c- c4 | f6- ff- |$ f8 | c8 | z8 |] 
+V:2
+z8 | z8 | [FA]6- [FA][FGc]- | [FGc]3 [FA]- [FA]4 | [C_EG]6- [CEG][D^FA]- |$ [DFA]8 | [GBd]8 | 
+[^FB]8 | [FGB]6- [FGB][EG]- |$ [EG]8 | [FA]6- [FA][CF]- | [CF]3 [FA]- [FA]4 | 
+[A,C_E]6- [A,CE][D^F]- |$ [DF]8 | [GBd]8 | [Ace]3 [DFA]- [DFA]4 | [GBd]6- [GBd][CGB^c]- |$ 
+[CGBc]8 | [FA]8 | z8 |] 
+V:3
+z8 | z2 C2 c2 B2 | A2 BA- A2 z A | GFGA- A2 z F | GGGG- G B2 A- |$ A2 ^F2 G2 A2 | B2 cB- B2 z B | 
+w: |な が れ|ぼ し を * さ|が そ う よ * こ|ろ ん だ ら * て を|* と っ て|ふ た つ * ほ|
+AGAB- B2 z F | GGGG- G B2 A- |$ A2 G2 c2 B2 | A2 BA- A2 z A | GFGA- A2 z A | c2 cc- c G2 ^F- |$ 
+w: し つ な ぐ * ま|ほ う の き * ず な|* な が れ|ぼ し を * み|つ け た ら * な|に を い * の ろう|
+F z A2 c2 A2 | A3 B B2 z B | cAGF- F z DD | FFFF F2 BA- |$ A2 E2 F2 G2 | G3 F F4- | F4 z4 |] 
+w: * い ま は|お も い つ|か な い よ * だ け|ど み ん な で わ ら|* っ て い|た い よ||
+V:4
+z8 | z4 =B2 A2 | F2 Fc- c2 z A | GABA- A2 z F | _EFGB AGE^F- |$ F^F G2 A2 F2 | B2 Bd- d2 z2 | 
+w: |ひ と|か け の * ほ|し く ず が * よ|ぞ ら か ら き み に あ|* う た め に|ま い お *|
+d2 dB- B2 z ^F | GFGF G F2 G- |$ G z A2 cc B2 | F2 Fc- ccAF | GABA- A2 z F | _EFGB AGE_e- |$ 
+w: り た よ * て|お つ な い で さ い|* ぽ さ き え|な が れ * ぼ し が|た ど っ た * ひ|と す じ の き せ き な|
+e2 d2 c2 B2 | G3 B- B2 z2 | A3 c- c2 z A | GFGF GF z G- |$ G2 d2 c2 B2 | A4 G2 AF- | F8 |] 
+w: * ぞ っ て|う た *|う よ * ど|ん な に と お く て|* も み つ|け る か ら||
+V:5
+[K:C] z8 | z2 ^c2 ^c2 ^e2 | ^a2 [c^e]2 z2 [c^e]2 | z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 |$ 
+z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 | z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 |$ 
+z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 | z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 |$ 
+z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 | z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 |$ 
+z2 [c^e]2 ^e2 [c^e]2 | ^a2 [c^e]2 z2 [c^e]2 | z2 [c^e]2 ^e2 [c^e]2 |] 
+V:6
+[K:C] x8 | z2 F2 F2 F2 | [^DF]^D z ^D [^DF][^DF] z ^D | [^DF]^D z F z F z ^D | 
+[^DF]^D z ^D [^DF][^DF] z ^D |$ [^DF]^D z F z F z ^D | [^DF]^D z ^D [^DF][^DF] z ^D | 
+[^DF]^D z F z F z ^D | [^DF]^D z ^D [^DF][^DF] z ^D |$ [^DF]^D z F z F z ^D | 
+[^DF]^D z ^D [^DF][^DF] z ^D | [^DF]^D z F z F z ^D | [^DF]^D z ^D [^DF][^DF] z ^D |$ 
+[^DF]^D z F z F z ^D | [^DF]^D z ^D [^DF][^DF] z ^D | [^DF]^D z F z F z ^D | 
+[^DF]^D z ^D [^DF][^DF] z ^D |$ [^DF]^D z F z F z ^D | [^DF]^D z ^D [^DF][^DF] z ^D | 
+[^DF]^D z F z F z ^D |] 
+
+
